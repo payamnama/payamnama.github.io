@@ -1,0 +1,55 @@
+<div style="text-align:center; margin:20px;">
+  <svg width="800" height="400" viewBox="0 0 800 400" 
+       xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Background -->
+    <rect width="800" height="400" fill="#111827" rx="20"/>
+
+    <!-- Laptop Body -->
+    <rect x="180" y="80" width="440" height="220" 
+          rx="12" fill="#374151" stroke="#9CA3AF" stroke-width="5"/>
+
+    <!-- Screen -->
+    <rect x="205" y="105" width="390" height="165" 
+          fill="#0F172A"/>
+
+    <!-- Lenovo Logo -->
+    <text x="400" y="155" text-anchor="middle"
+          font-size="35" font-family="Arial"
+          fill="#E5E7EB">
+      Lenovo
+    </text>
+
+    <!-- Bluetooth Symbol -->
+    <text x="400" y="230" text-anchor="middle"
+          font-size="70" font-family="Arial"
+          fill="#38BDF8">
+      ♢
+    </text>
+
+    <!-- Keyboard Base -->
+    <path d="M130 310 L670 310 L730 350 L70 350 Z"
+          fill="#4B5563"
+          stroke="#9CA3AF"
+          stroke-width="4"/>
+
+    <!-- Title -->
+    <text x="400" y="55" 
+          text-anchor="middle"
+          font-size="28"
+          font-family="Arial"
+          fill="white">
+      Lenovo Legion 5-15ACH6H
+    </text>
+
+    <!-- Subtitle -->
+    <text x="400" y="385"
+          text-anchor="middle"
+          font-size="22"
+          font-family="Arial"
+          fill="#38BDF8">
+      Bluetooth Driver Download
+    </text>
+
+  </svg>
+</div>
