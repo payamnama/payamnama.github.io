@@ -51,8 +51,11 @@ categories: [drive]
 
 🔗 دانلود درایور LAN لپ‌تاپ HP Victus 15 Gaming FB2082WM:
 
-https://shopfile1.ir/product/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%af%d8%b1%d8%a7%db%8c%d9%88%d8%b1-lan-%d9%84%d9%be%d8%aa%d8%a7%d9%be-%d8%a7%da%86-%d9%be%db%8c-%d9%85%d8%af%d9%84-victus-15-gaming-fb2082wm/
+## دانلود
 
+برای دریافت درایور LAN لپ‌تاپ **HP Victus 15 Gaming FB2082WM** از لینک زیر استفاده کنید:
+
+[دانلود درایور LAN HP Victus 15 FB2082WM](https://shopfile1.ir/product/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%af%d8%b1%d8%a7%db%8c%d9%88%d8%b1-lan-%d9%84%d9%be%d8%aa%d8%a7%d9%be-%d8%a7%da%86-%d9%be%db%8c-%d9%85%d8%af%d9%84-victus-15-gaming-fb2082wm/)
 ---
 
 ## نکات مهم
