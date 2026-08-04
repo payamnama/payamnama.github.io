@@ -38,7 +38,7 @@ categories: [driver, lenovo]
 
 اگر قصد دریافت نسخه آماده این درایور را دارید، از طریق لینک زیر اقدام کنید:
 
-**👉 [دانلود برنامه درایور LAN لپ‌تاپ لنوو مدل IdeaPad L3-15IML05](https://shopfile1.ir/)**
+**👉 [دانلود برنامه درایور LAN لپ‌تاپ لنوو مدل IdeaPad L3-15IML05](https://shopfile1.ir/product/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%af%d8%b1%d8%a7%db%8c%d9%88%d8%b1-lan-%d9%84%d9%be%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-ideapad-l3-15iml05/)**
 
 ## کلمات کلیدی
 
