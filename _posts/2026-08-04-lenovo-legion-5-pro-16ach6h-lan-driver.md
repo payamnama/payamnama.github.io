@@ -56,8 +56,8 @@ tags: [Legion 5 Pro, 16ACH6H, Realtek LAN, Ethernet Driver, Windows 10, Windows 
 
 برای مشاهده سایر فایل‌های مرتبط با درایورها و محصولات مشابه می‌توانید به بخش زیر مراجعه کنید:
 
-[مشاهده و دانلود سایر درایورها در فروشگاه ShopFile1](https://shopfile1.ir/product-category/%d8%af%d8%b1%d8%a7%db%8c%d9%88/)
-## کلمات کلیدی
+
+[مشاهده و دانلود سایر درایورها در فروشگاه ShopFile1](https://shopfile1.ir/product/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%af%d8%b1%d8%a7%db%8c%d9%88%d8%b1-lan-%d9%84%d9%be%d8%aa%d8%a7%d9%be-%d9%84%d9%86%d9%88%d9%88-%d9%85%d8%af%d9%84-legion-5-15ach6h/)## کلمات کلیدی
 
 درایور Lenovo Legion 5 Pro 16ACH6H
 دانلود LAN Driver لنوو
